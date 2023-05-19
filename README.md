@@ -1,1 +1,2 @@
-# Task Management System (SQLAlchemy, PYSimpleGUI)
+# Task Management System
+Packages used: SQLAlchemy, PYSimpleGUI
